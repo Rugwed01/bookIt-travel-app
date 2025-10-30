@@ -10,6 +10,7 @@ Built as an assignment to demonstrate strong React, Node.js, MongoDB, and API in
 **Frontend:** [https://bookit-frontend-travel-app.vercel.app](https://bookit-frontend-travel-app.vercel.app)  
 **Backend API:** [https://book-it-travel-app.vercel.app](https://book-it-travel-app.vercel.app)
 
+- **NOTE**: Must refresh if you see any error
 ---
 
 ## 📦 Project Structure
