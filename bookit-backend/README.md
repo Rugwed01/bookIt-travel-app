@@ -13,7 +13,7 @@ This is the backend server for the BookIt web application, built with Node.js, E
 
 1.  **Clone the repository:**
     ```sh
-    git clone <[repo-url](https://github.com/Rugwed01/bookIt-travel-app)>
+    git clone <https://github.com/Rugwed01/bookIt-travel-app>
     cd bookit-backend
     ```
 
