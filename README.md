@@ -7,8 +7,8 @@ Built as an assignment to demonstrate strong React, Node.js, MongoDB, and API in
 
 ## 🌟 Live Demo
 
-**Frontend:** [https://your-vercel-bookit-frontend.vercel.app](https://your-vercel-bookit-frontend.vercel.app)  
-**Backend API:** [https://your-vercel-bookit-backend.vercel.app/api](https://your-vercel-bookit-backend.vercel.app/api)
+**Frontend:** [https://bookit-frontend-travel-app.vercel.app](https://bookit-frontend-travel-app.vercel.app)  
+**Backend API:** [https://book-it-travel-app.vercel.app](https://book-it-travel-app.vercel.app)
 
 ---
 
