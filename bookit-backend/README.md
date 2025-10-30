@@ -13,7 +13,7 @@ This is the backend server for the BookIt web application, built with Node.js, E
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repo-url>
+    git clone <[repo-url](https://github.com/Rugwed01/bookIt-travel-app)>
     cd bookit-backend
     ```
 
@@ -26,7 +26,7 @@ This is the backend server for the BookIt web application, built with Node.js, E
     Create a `.env` file in the root of the project and add your configuration:
     ```
     PORT=5001
-    MONGO_URI=mongodb+srv://xyz:password@m0.ndkptvu.mongodb.net/?retryWrites=true&w=majority&appName=M0
+    MONGO_URI=mongodb://username:password@host1:port1,host2:port2/database?option1=value1&option2=value2
     ```
 
 ### Running the Application
