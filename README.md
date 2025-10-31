@@ -132,7 +132,7 @@ Strictly matches the assignment spec and mobile-first UX/UI principles.
 
 - **Developed by:** [Rugwed Yawalkar](https://github.com/Rugwed01)
 - Images from [Unsplash](https://unsplash.com) & [Pexels](https://www.pexels.com)
-- Special thanks to [Cursor](https://cursor.so), [Bolt.new](https://bolt.new), [Gemini](https://gemini.google.com) and [perplexity](https://perplexity.ai.com)
+- Special thanks to [Cursor](https://cursor.so), [Bolt.new](https://bolt.new), [Gemini](https://gemini.google.com) and [perplexity](https://perplexity.ai)
 
 ## 🗒️ Additional Notes
 
